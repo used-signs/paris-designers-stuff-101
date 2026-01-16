@@ -1,0 +1,21 @@
+
+/* TODO TYPOGRAPHY
+-------------------------------------------------- */
+
+header h1, figure h1 {font: 700 1.4em/46px 'Titillium Web', sans-serif;}
+nav a {cursor:pointer;}
+
+.text p {font: 300 1.05em/1.9em 'Titillium Web', sans-serif;letter-spacing:1px;}
+.text h1 {font: 300 1.05em/0em 'Titillium Web', sans-serif;}
+.text h3 {font: 300 1.08em/1.9em 'Titillium Web', sans-serif;color:#9a9388;letter-spacing:1px;}
+.text h3 a {font: 500 1.05em/1.9em 'Titillium Web', sans-serif;color:#888;text-decoration: none;}
+.text h3 a:hover {font: 500 1.05em/1.9em 'Titillium Web', sans-serif;color:#fff;text-decoration: underline;}
+
+article > p {font: 400 1em/2.1em 'Titillium Web', sans-serif;color:#888;}
+article > p a {font: 400 0.85em/0em 'Titillium Web', sans-serif;color:#888;}
+article > h2 a {font: 600 0.95em/1.05em 'Titillium Web', sans-serif;text-transform: uppercase;color:#fff;font-weight:400;text-decoration: none;letter-spacing:1px;}
+
+.text > h1  {font: 300 1.08em/1.5em 'Titillium Web', sans-serif;color:#9a9388;letter-spacing:1px;}
+.sp-slider > li h1 {font: 400 1em/2.1em 'Titillium Web', sans-serif;color:#fff;letter-spacing:1px;}
+#s-sign h2, #s-text h2, #s-liter h2, #s-video h2{font: 500 1.10em/25px 'Titillium Web', sans-serif;text-decoration: none;}
+.tempo-w a {font: 300 0.85em/1.05em 'Titillium Web', sans-serif;color:#fff;text-transform: uppercase;text-decoration: none;letter-spacing:1px;}
